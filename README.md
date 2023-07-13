@@ -2,5 +2,5 @@
 
 Hello, this is my knowledge pages
 
-- ![Backend](/backend)
-- ![Docker](/docker)
+- [Backend](https://wiki.afrijal.dev/backend)
+- [Docker](https://wiki.afrijal.dev/docker)
